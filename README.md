@@ -1,5 +1,7 @@
 # Tribute-Page
-**A tribute page is basically an overview of someone whom we admire in our life.**
+**A tribute page is basically an overview of someone whom we admire in our life.**  
+  
+  
 **Screenshots:Home Page**
 ![Tribute-1](https://user-images.githubusercontent.com/79842525/128590613-0083f418-da0e-409b-855d-5eb62da731c8.jpeg)
 ![Tribute-2](https://user-images.githubusercontent.com/79842525/128590650-0b189ab7-56d4-444c-9cd4-523eb57836e1.jpeg)
