@@ -12,7 +12,7 @@
 ![Tribute-7](https://user-images.githubusercontent.com/79842525/128590670-f1aa2997-a046-454a-b293-7e3a62394105.jpeg)
 ![Tribute-8](https://user-images.githubusercontent.com/79842525/128590674-152abca8-902e-4ea1-b78b-1bd5f9dad525.jpeg)    
   
-  🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)  
+ ### 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)  
   
  
   ## Contribution Guidelines 🏗
